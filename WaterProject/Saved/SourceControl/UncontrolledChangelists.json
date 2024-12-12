@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREAL PROJECTS/WaterProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/PROGRAMES/UE_5.5/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Ocean.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WaterMap.umap",
+				"D:/PROGRAMES/UE_5.5/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Ocean.uasset",
+				"D:/PROGRAMES/UE_5.5/Engine/Plugins/Experimental/Water/Content/Materials/PostProcessing/M_UnderWater_PostProcess_Volume.uasset",
+				"D:/PROGRAMES/UE_5.5/Engine/Plugins/Experimental/Water/Content/Materials/Functions/ComputeWavesAttenuationFactor.uasset",
+				"D:/PROGRAMES/UE_5.5/Engine/Plugins/Experimental/Water/Content/Materials/Functions/WaterBodyData.uasset",
+				"D:/PROGRAMES/UE_5.5/Engine/Plugins/Experimental/Water/Content/Materials/Functions/WaterZoneData.uasset",
+				"D:/PROGRAMES/UE_5.5/Engine/Plugins/Experimental/WaterExtras/Content/Maps/WaterTestMap.umap",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WaterMapFixed.umap",
+				"D:/UNREAL PROJECTS/WaterProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/WaterMap.umap",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/WaterMapFixed.umap",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/FloatableObject.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/WaterBodyOcean_Blueprint.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/source/boat.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/source/boat1.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/textures/boatAO.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/textures/boatColor.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/textures/boatMetallic.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/textures/boatNormal.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/textures/boatRoughness.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/boat/source/paddel.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/FloatableObjectBoat.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/IMC_Boat.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/IA_BoatSteer.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/IA_BoatMove.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/FloatableObject.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WaterBodyOcean_Blueprint.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/Boat.uasset",
+				"D:/UNREAL PROJECTS/WaterProject/Content/WATER_STUFF/BoatActor.uasset"
+			]
+		}
+	]
+}
